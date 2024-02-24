@@ -1,0 +1,49 @@
+body{
+    background-image: url("Background\ dar.jpg");
+}
+nav img{
+    padding-left: 100px;
+    padding-top: 25px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 30px;
+}
+nav button{
+    border: 0;
+    outline: 0;
+    background: #db0001;
+    color:#fff;
+    padding: 7px 20px;
+    font-size: 15px;
+    border-radius: 4px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+#png{
+    width: 250px;height: 100px;
+}
+
+a{
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-weight:bold;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+h1, h3, p{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+h1{
+    font-size: 70px;
+    padding-top: 100px;
+}
+h3{
+    font-size: 35px;
+}
+p{
+    font-size: 30px;
+}
